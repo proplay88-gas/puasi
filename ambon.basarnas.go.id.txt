@@ -326,7 +326,7 @@ var rl_adx_val = '';
   "@context" : "http://schema.org",
   "@type" : "Organization",
   "url": "https://ambon.basarnas.go.id/",
-  "logo": "https://ik.imagekit.io/gmw8qjvuh/icon-zeus.webp",
+  "logo": "https://i.ibb.co/Rkyx39RZ/a303.png",
   "sameAs" : [
     "https://www.facebook.com/kompascom",
     "https://www.twitter.com/kompascom",
@@ -9587,7 +9587,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- (ads.skin.full) -->
         <div class="container clearfix nav__wrap">
             <div class="logo logo--sticky">
-                                    <a href="https://ambon.basarnas.go.id/"><img class="lozad" data-src="https://ik.imagekit.io/gmw8qjvuh/icon-zeus.webp" alt="DEPOBOS : Situs 777 Resmi Link Slot Gacor Hari Ini Dan Slot Mahjong Bet 200 Mudah Maxwin" /></a>
+                                    <a href="https://ambon.basarnas.go.id/"><img class="lozad" data-src="https://i.ibb.co/Rkyx39RZ/a303.png" alt="DEPOBOS : Situs 777 Resmi Link Slot Gacor Hari Ini Dan Slot Mahjong Bet 200 Mudah Maxwin" /></a>
                             </div>
 
               
